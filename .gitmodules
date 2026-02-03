@@ -1,0 +1,6 @@
+[submodule "phase1"]
+	path = phase1
+	url = https://github.com/joaoalves03/uminho-cpar-wa1-2526
+[submodule "phase2"]
+	path = phase2
+	url = https://github.com/luisvc004/uminho-cpar-wa2-2526
