@@ -13,5 +13,5 @@ Optimizing the [ZPIC]("https://zpic-plasma.github.io/") simulation
     - Grade: 14.7
 
 ## Authors
-- [João Alves]("https://github.com/joaoalves03/")
-- [Luís Carmo]("https://github.com/luisvc004/")
+- [João Alves](https://github.com/joaoalves03/)
+- [Luís Carmo](https://github.com/luisvc004/)
